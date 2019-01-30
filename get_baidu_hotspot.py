@@ -34,3 +34,4 @@ while 1 == 1:
             print(er)
             continue
     time.sleep(900)
+    print('----------')
